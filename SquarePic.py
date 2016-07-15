@@ -1,0 +1,11 @@
+from Myro import *
+penDown("red")
+forward(2,1)
+turnBy(90)
+forward(2,1)
+turnBy(90)
+forward(2,1)
+turnBy(90)
+forward(2,1)
+penUp()
+forward(2,1)
