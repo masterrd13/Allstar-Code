@@ -1,0 +1,62 @@
+#imageBackground{
+  background-image: url("http://science-all.com/images/wallpapers/nebula-wallpaper/nebula-wallpaper-22.jpg");
+  background-size:cover;
+  height: 1080px;
+  width: 1920px;
+  margin:-50px; 
+}
+#background{
+  background-color: rgb(0,0,0);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Banner{
+  background-color: rgb(34,34,34);
+  background-size:cover;
+  height: 100px;
+  width: 100%;
+  margin:-20px;
+}
+
+#BlurBanner{
+  background-color: rgb(34,34,34);
+  background-size:cover;
+  height: 100px;
+  width: 100%;
+  -webkit-filter: blur(10px);
+  -moz-filter: blur(10px);
+  -o-filter: blur(10px);
+  -ms-filter: blur(10px);
+  filter: blur(10px);
+  margin:-20px;
+}
+
+h1{
+	text-align: center;
+	color: rgb(0,0,0);
+	font-size: 100px;
+}
+
+body{
+	text-align: center;
+	font-family: "Arial";
+	font:20px arial, sans-serif;
+}
+
+ul, li{
+  background-color: rgb(0,0,0)
+}
+
